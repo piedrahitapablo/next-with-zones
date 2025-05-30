@@ -33,7 +33,7 @@ export default function Home() {
         alignItems: "center",
       }}
     >
-      <p>Test branch</p>
+      <p>Test branch 2</p>
 
       <Image
         className="dark:invert"
