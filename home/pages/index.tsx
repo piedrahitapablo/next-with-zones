@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
       <Header />
-      <p>This is our homepage</p>
+      <p>This is our homepage (test branch)</p>
 
       <div style={{ display: "flex", flexDirection: "column" }}>
         <a href="/blog">Blog using a</a>

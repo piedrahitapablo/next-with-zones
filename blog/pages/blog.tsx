@@ -33,6 +33,8 @@ export default function Home() {
         alignItems: "center",
       }}
     >
+      <p>Test branch</p>
+
       <Image
         className="dark:invert"
         src="/next.svg"
